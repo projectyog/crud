@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "username": "Sumit",
+      "pic": "https://www.freeimages.com/photo/chugh-1171409",
+      "uname": "yogesh"
+    },
+    {
+      "pic": "https://www.freeimages.com/photo/chugh-1171409",
+      "username": "prati",
+      "id": 4
+    },
+    {
+      "pic": "https://www.freeimages.com/photo/chugh-1171409",
+      "username": "yogesh prasad mathankar",
+      "id": 5
+    }
+  ]
+}
